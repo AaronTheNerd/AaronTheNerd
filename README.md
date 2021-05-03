@@ -1,5 +1,5 @@
 ## Hello!
-My name is Aaron Barge, I'm a Computer Engineering Undergrad at UofSC (expected graduation May 2021). You can view my [Portfolio here](aaronthenerd.github.io/Portfolio "My Portfolio").
+My name is Aaron Barge, I'm a Computer Engineering Undergrad at UofSC (expected graduation May 2021). You can view my [Portfolio here](https://aaronthenerd.github.io/Portfolio "My Portfolio").
 
 ## My Repositories
 My repositories mainly consist of university projects however, [Personal-Coding-Projects](https://github.com/AaronTheNerd/Personal-Coding-Projects) and [Projects](https://github.com/AaronTheNerd/Projects) are my projects which were done outside of school.
