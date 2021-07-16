@@ -11,3 +11,5 @@ I'm interested in programming in a professional environment. I enjoy problem sol
 My email is bargeaaron@gmail.com
 
 <img align="left" alt="AaronTheNerd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronTheNerd&show_icons=true&hide_border=true&theme=react"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronTheNerd)](https://github.com/anuraghazra/github-readme-stats)
