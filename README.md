@@ -7,5 +7,7 @@ My repositories mainly consist of university projects however, [Personal-Coding-
 ## Interests
 I'm interested in programming in a professional environment. I enjoy problem solving and working with highly technical code.
 
+<img align="left" alt="AaronTheNerd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronTheNerd&show_icons=true&hide_border=true"/>
+
 ## Contact Me
 My email is bargeaaron@gmail.com
