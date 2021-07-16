@@ -10,4 +10,4 @@ I'm interested in programming in a professional environment. I enjoy problem sol
 ## Contact Me
 My email is bargeaaron@gmail.com
 
-<img align="left" alt="AaronTheNerd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronTheNerd&show_icons=true&hide_border=true&theme=highcontrast"/>
+<img align="left" alt="AaronTheNerd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronTheNerd&show_icons=true&hide_border=true&theme=dracula"/>
