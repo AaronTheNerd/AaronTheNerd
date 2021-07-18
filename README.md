@@ -9,13 +9,12 @@ I graduated from UofSC with a degree in Computer Engineering in May of 2021 with
 
 Additionally, I have always enjoyed problem solving and applying my knowledge in my personal experiences. For example, while I worked at Code Ninjas, I used my programming experience to design and implement a program which could [create and run animations on a Christmas Tree](https://github.com/AaronTheNerd/Personal-Coding-Projects/tree/master/Arduino/Tree).
 
-<h3 align="left">Contact me at bargeaaron@gmail.com</h5>
+Currently, I am looking for a job where I can strengthen my programming and design strategies while writing high-quality code.
+
+<h3 align="left">View a full list of my courses and projects at <a href="https://aaronthenerd.github.io/Portfolio">my Portfolio</a></h3>
+<h3 align="left">Contact me at bargeaaron@gmail.com</h3>
 
 <img align="center" alt="AaronTheNerd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronTheNerd&show_icons=true&hide_border=true&theme=react"/>
-
-<h2 align="left">Interests</h3>
-
-Eventually, I'd like to work with the hardware components of computers, or at least very low-level code. I enjoy problem solving
 
 <h2 align="left">Languages</h3>
 
