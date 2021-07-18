@@ -1,4 +1,6 @@
-![Me](https://github.com/AaronTheNerd/AaronTheNerd/blob/main/headshot.jpg)
+<p align="center">
+<img alt="Me" src="https://github.com/AaronTheNerd/AaronTheNerd/blob/main/headshot.jpg" width="25%"/> 
+</p>
 
 <h1 align="center">Hi 👋, I'm Aaron Barge</h1>
 <h3 align="center">A recent Computer Engineering graduate from the University of South Carolina.</h3>
@@ -42,7 +44,7 @@ My favorite Verilog Project:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaronTheNerd&repo=CSCE611)](https://github.com/AaronTheNerd/CSCE611)
 
-On top of these languages, I also have experience with: Javascript ([83rd percentile](https://app.pluralsight.com/profile/aaron-barge)), Java ([68th percentile](https://app.pluralsight.com/profile/aaron-barge)), 
+On top of these languages, I also have experience with: Javascript ([83rd percentile](https://app.pluralsight.com/profile/aaron-barge)), Java ([68th percentile](https://app.pluralsight.com/profile/aaron-barge)), Matlab, and Haskell. My full list of projects and languages can be found on my [Portfolio](https://aaronthenerd.github.io/Portfolio).
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
