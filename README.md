@@ -1,3 +1,5 @@
+![Me](https://github.com/AaronTheNerd/AaronTheNerd/headshot.jpg)
+
 <h1 align="center">Hi 👋, I'm Aaron Barge</h1>
 <h3 align="center">A recent Computer Engineering graduate from the University of South Carolina.</h3>
 
