@@ -11,7 +11,7 @@ Additionally, I have always enjoyed problem solving and applying my knowledge in
 
 Currently, I am looking for a job where I can strengthen my programming and design strategies while writing high-quality code.
 
-<h3 align="left">View a full list of my courses and projects at <a href="https://aaronthenerd.github.io/Portfolio">my Portfolio</a></h3>
+<h3 align="left">View a full list of my projects at <a href="https://aaronthenerd.github.io/Portfolio">my Portfolio</a></h3>
 <h3 align="left">Contact me at bargeaaron@gmail.com</h3>
 
 <img align="center" alt="AaronTheNerd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronTheNerd&show_icons=true&hide_border=true&theme=react"/>
