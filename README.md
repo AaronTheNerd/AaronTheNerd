@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Barge</h1>
-<h3 align="center">A software developer at Profound Logic.</h3>
+<h3 align="center">A software developer at CEEUS.</h3>
 
 I graduated from UofSC with a degree in Computer Engineering in May of 2021 with a 3.5 GPA. During my time at UofSC I constantly went above and beyond in my courses. Whenever a new language would be used in a course, I would always go out of my way to create my own small projects to get accustomed to the language. For example, when I first started learning Matlab for an Electrical Engineering course, I practiced the language by creating my own toolbox which could help with much of my early electronic analysis. Another time, when I had to use Prolog for the first half of a Programming Language Structures course, I completed 20 out of the [99 Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/).
 
